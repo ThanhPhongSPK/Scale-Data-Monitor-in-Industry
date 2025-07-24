@@ -1,6 +1,6 @@
 ﻿# Scale Data Logging & Management System
 
-This project provides a complete solution for **real-time data acquisition from industrial scales** via RS232/USB COM ports and saving the data into a **local MySQL database**, with a clean and user-friendly **Tkinter-based GUI** for filtering, exporting, and managing weight data (Gross, Tare, Net).
+This project provides a complete solution for **real-time data acquisition from industrial scales (Mettler Toledo Scales)** via RS232/USB COM ports and saving the data into a **local MySQL database**, with a clean and user-friendly **Tkinter-based GUI** for filtering, exporting, and managing weight data (Gross, Tare, Net).
 
 ---
 
