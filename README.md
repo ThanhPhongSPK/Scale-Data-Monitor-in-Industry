@@ -120,4 +120,4 @@ To test without hardware, simulate serial input using a virtual port or edit `Co
 
 > Below is the main GUI used in actual deployment:
 
-![UI](./Full UI.jpg)
+![UI](./Full_UI.jpg)
