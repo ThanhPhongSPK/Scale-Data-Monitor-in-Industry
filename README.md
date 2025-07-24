@@ -25,7 +25,7 @@ This project provides a complete solution for **real-time data acquisition from 
 ├── Connect_to_scale.py      # Serial reader + MySQL logger
 ├── store_dataMYSQL.py       # DB connection + Insert/Fetch
 ├── GUI.py                   # Main application UI
-├── Full UI.jpg              # UI Screenshot
+├── Full_UI.jpg              # UI Screenshot
 └── README.md
 ```
 
